@@ -9,3 +9,10 @@ A value of 0 in the “loan_status” column means that the loan is healthy. A v
 Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 #### Write a Credit Risk Analysis Report
 Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. 
+
+# Credit Risk Analysis Report
+## Overview - explains the purpose of this analysis. 
+
+## use bulleted list, describe the accuracy, precision, and recall scores of the machine learning model.
+
+## summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
